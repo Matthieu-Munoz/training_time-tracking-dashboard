@@ -1,6 +1,6 @@
 function StartCard({ stats }) {
   return (
-    <div className={stats.class}>
+    <div className="box bg-green-800">
       <p>blabla</p>
     </div>
   );
